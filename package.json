@@ -1,0 +1,21 @@
+{
+  "name": "js-sliding-window",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./app/index.js",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeePresswood/js-sliding-window.git"
+  },
+  "keywords": [],
+  "author": "Lee Presswood <LeePresswood@gmail.com> (https://twitter.com/Lee_Presswood)",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/LeePresswood/js-sliding-window/issues"
+  },
+  "homepage": "https://github.com/LeePresswood/js-sliding-window#readme"
+}
